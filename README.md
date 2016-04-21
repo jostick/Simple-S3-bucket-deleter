@@ -1,0 +1,1 @@
+# Simple-S3-bucket-deleter
